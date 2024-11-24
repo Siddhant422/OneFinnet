@@ -17,6 +17,10 @@ A modern, responsive website built with React showcasing the newly launched bike
 - **Font**: Poppins and Lora for modern, clean typography.
 - **Images**: Custom image assets for bike specifications and icons.
 
+## Snapshots
+![image](https://github.com/user-attachments/assets/30b752c4-e71f-4821-b9de-d609bdfc32ba)
+![image](https://github.com/user-attachments/assets/54459b99-8b42-4066-b10d-200b02b022eb)
+
 ## Installation
 
 To run this project locally, follow these steps:
